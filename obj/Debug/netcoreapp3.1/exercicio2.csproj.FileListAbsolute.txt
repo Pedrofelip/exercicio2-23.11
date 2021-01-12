@@ -1,0 +1,13 @@
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.exe
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.deps.json
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.json
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.dev.json
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.csprojAssemblyReference.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfoInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfo.cs
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.csproj.CoreCompileInputs.cache
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.dll
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.pdb
+D:\Users\Gigabyte\Desktop\Senai projetos\lista de exercicios de fixação dia 23.11\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.genruntimeconfig.cache
